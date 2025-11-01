@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore specific generated files
+me/CV_Amanda_Hernandez.pdf
+me/linkedin.txt
+me/summary.txt

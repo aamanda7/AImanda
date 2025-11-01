@@ -210,3 +210,6 @@ __marimo__/
 me/CV_Amanda_Hernandez.pdf
 me/linkedin.txt
 me/summary.txt
+# Environment variables
+.env
+.env.*
